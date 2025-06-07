@@ -1,4 +1,4 @@
-# CINEMATOGRAPHY BRIEF
+# CINEMATOGRAPHY BRIEF - VIDEO
 
 **Project:** ____________________  
 **Revision #:** ______  **Date (YYYY-MM-DD):** __________  
