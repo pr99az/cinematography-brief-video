@@ -53,6 +53,7 @@
 | Setting | Value |
 |---------|-------|
 | **Camera Format / Sensor** | - [ ] Full-Frame - [ ] APS-C - [ ] Medium - [ ] Other: __________ |
+| **Camera Body & Lens** | (e.g., Canon EOS R5 with 24-70mm f/2.8 lens) |
 | **Frame Rate (fps)** | ______ |
 | **Shutter** | ___ ° / 1/________ s |
 | **Lens Set** | (focal lengths, anamorphic/spherical, vintage/modern, special traits) |
@@ -78,15 +79,19 @@
 ---
 
 ## Composition & Framing
-- **Primary Framing:** - [ ] Wide - [ ] Medium - [ ] CU - [ ] XCU - [ ] Mixed  
-- **Aspect Ratio:** - [ ] 3:2 - [ ] 16:9 - [ ] 4:5 - [ ] 1:1 - [ ] Other __________  
-- **Rule of Thirds:** - [ ] Follow - [ ] Break Intentionally - [ ] Center  
-- **Depth Layers**  
-  - *Foreground:* ____________________  
-  - *Midground:* ____________________  
-  - *Background:* ____________________  
-- **Leading Lines / Geometry:** ____________________  
-- **Symmetry:** - [ ] Symmetrical - [ ] Asymmetrical - [ ] Dynamic Balance  
+| Field | Detail |
+|-------|--------|
+| **Primary Framing** | - [ ] Wide - [ ] Medium - [ ] CU - [ ] XCU - [ ] Mixed |
+| **Aspect Ratio** | - [ ] 3:2 - [ ] 16:9 - [ ] 4:5 - [ ] 1:1 - [ ] Other __________ |
+| **Rule of Thirds** | - [ ] Follow - [ ] Break Intentionally - [ ] Center |
+| **Depth Layers** | |
+| *Foreground* | ____________________ |
+| *Midground* | ____________________ |
+| *Background* | ____________________ |
+| **Leading Lines / Geometry** | ____________________ |
+| **Symmetry** | - [ ] Symmetrical - [ ] Asymmetrical - [ ] Dynamic Balance |
+| **Subject Description** | (Describe the main subject(s): appearance, position, action in 40 words max) |
+| **Environment & Composition** | (Describe setting and frame arrangement in 30 words max) |
 
 ---
 
